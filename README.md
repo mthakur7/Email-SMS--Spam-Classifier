@@ -1,2 +1,4 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+# Email/SMS-Spam-Classifier
+Live Demo: https://sms-spam-classifier-4.herokuapp.com/
+
+
